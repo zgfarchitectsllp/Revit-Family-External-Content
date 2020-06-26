@@ -1,0 +1,10 @@
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\bin\Debug\WatcherApp.exe.config
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\bin\Debug\WatcherApp.exe
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\bin\Debug\WatcherApp.pdb
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.csprojResolveAssemblyReference.cache
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.Form1.resources
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.Properties.Resources.resources
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.csproj.GenerateResource.Cache
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.exe
+C:\Users\trevor.taylor\Documents\Visual Studio 2017\Projects\FileWatcher\WatcherApp\obj\Debug\WatcherApp.pdb

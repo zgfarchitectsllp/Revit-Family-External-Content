@@ -1,0 +1,47 @@
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\bin\Debug\FileWatcher.exe.config
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\bin\Debug\FileWatcher.exe
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\bin\Debug\FileWatcher.pdb
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\obj\Debug\FileWatcher.exe
+c:\users\trevor.taylor\documents\visual studio 2017\Projects\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\bin\Debug\FileWatcher.exe.config
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\bin\Debug\FileWatcher.exe
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\bin\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.exe
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.ContentTester.resources
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.csproj.GenerateResource.Cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - Misc\Revit Family External Content\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.exe.config
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.exe
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.ContentTester.resources
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.CopyComplete
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.exe
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.exe.config
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.exe
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\FileWatcher.pdb
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.ContentTester.resources
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.csproj.CopyComplete
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.exe
+C:\Users\tstay\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.pdb
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\ProgressReport.g.cs
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher_MarkupCompile.cache
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher_MarkupCompile.lref
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\ProgressReport.baml
+C:\Users\trevor.taylor\Dropbox\DEV\Revit - ZGF Addins\Content Browser\Revit Family External Content\obj\Debug\FileWatcher.g.resources

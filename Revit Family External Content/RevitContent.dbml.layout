@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RevitContent">
+  <DataContextMoniker Name="/RevitContentDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ae60198e-33ae-47d3-a60e-3803c4411cb9" absoluteBounds="4.375, 1.625, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/RevitContentDataContext/RevitContentMain" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b6eeb90-05da-4e86-8ca7-329749cf9efe" absoluteBounds="4.39, 2.085, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
